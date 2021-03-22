@@ -1,5 +1,12 @@
 # Multi-omics study of Planobispora rosea, producer of the thiopeptide antibiotic GE2270A
-Supplementary material
+
+1. Item 1
+1. Item 2
+1. Item 3
+   1. Item 3a
+   1. Item 3b
+
+
 List of supplementary material:
 \begin{itemize}
     \item \textbf{Supplementary\_figures\_and\_legends.docx}--File containing all supplementary figures with legends
